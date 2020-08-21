@@ -1,0 +1,19 @@
+1000 Doves;Lady Gaga;4;40;Chromatica
+A-Yo;Lady Gaga;4;32;Joanne
+All Night;Beyonce;4;6;Lemonade
+Angel Down;Lady Gaga;4;34;Joanne
+Applause;Lady Gaga;4;34;Artpop
+Arua;Lady Gaga;4;34;Artpop
+Back Up;Beyonce;4;9;BDay
+Brown Eyes;Beyonce;4;6;Survivor
+Butterfly;Grimes;4;33;Art Angels
+California;Grimes;5;3;Art Angels
+Creole;Beyonce;4;6;BDay
+Daddy;Beyonce;5;6;BDay
+Eyes;Grimes;5;8;Art Angels
+Hollow;Lady Gaga;4;29;A Star Is Born
+Hope is a dangerous thing for a women like me to have;lana del rey;5;33;unknown
+muse;Soulwax;3;47;Most of the remixes we've made for other people over the years
+Ocean;Grimes;5;4;Art Angels
+Thank you;Florian Cloud de Bounevialle O'Malley Armstrong;3;48;sliding door
+what about us;Pink;3;44;unknown
