@@ -141,7 +141,10 @@ int Song::readInDuration() const{
 
 //display data of a Song object
 void Song::printSong() const{
-	printf( "%-25.24s (%02d:%02d) %-15.14s [Album] %-15.15s\n", title, minute, second, artist, album);	
+
+	// this line is problematic. %-25.25s messes things up, needs to be changed to %-.25
+//	printf( "%-25.24s (%02d:%02d) %-15.14s [Album] %-25.25s\n", title, minute, second, artist, album);	
+	printf("%-25.24s (%02d:%02d) %-15.14s [Album] %-.25s\n", title, minute, second, artist, album);
 }
 
 //prompt user to enter a new song

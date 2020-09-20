@@ -15,5 +15,5 @@ song.o: utility.h
 utility.o: utility.h
 
 clean:
-	rm *.o project5
+	rm *.o
 

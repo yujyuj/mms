@@ -1,6 +1,5 @@
 /*
-Yujun Liu
-CS 162 Project 5
+YJL
 8/13/2020
 
 The program implements a music playlist management sytem.
